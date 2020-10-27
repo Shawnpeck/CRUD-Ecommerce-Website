@@ -1,0 +1,79 @@
+body{
+    background-color: #232f3b !important;
+}
+
+h1 {
+    color: orange;
+    text-align:center;
+}
+
+img {
+   border-radius: 50%;
+    height: 7%;
+    width: 15%;
+    float:right;
+    
+  }
+
+  .one{
+    position: relative;
+    top: 20px;
+    text-align:center;
+    
+}
+
+
+.two{
+    position: relative;
+    top: 80px;
+    text-align:center;
+    
+}
+.three{
+    position: relative;
+    top: 70px;
+    text-align:center;
+    
+}
+
+h3,p{
+    color:orange;
+}
+h4{
+    color:blueviolet;
+}
+.first{
+    padding:40px 70px 0px 90px;
+}
+
+.middle{
+    padding:60px 70px 0px 90px;
+}
+
+.final{
+    padding:90px 70px 0px 90px;
+    
+}
+
+
+
+/*@media(min-width:300px){
+  
+   img{
+       width:100px;
+   }
+   .first{
+       font-size:medium;
+      padding: 0 0 0 40px;
+      
+   }
+   .middle{
+    font-size:medium;
+    padding: 0 0 0 40px;
+   }
+   .final{
+    font-size:medium;
+    padding: 0 0 0 40px;
+   }
+   
+  }*/
