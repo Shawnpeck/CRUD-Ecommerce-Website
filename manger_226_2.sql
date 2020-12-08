@@ -68,7 +68,7 @@ INSERT INTO `order_details` (`id`, `order_id`, `product_id`, `quantity`) VALUES
 
 -- --------------------------------------------------------
 
---
+-- 
 -- Table structure for table `product`
 --
 
